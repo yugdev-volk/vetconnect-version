@@ -5,8 +5,8 @@
     "forceUpdate": true
   },
   "android": {
-    "latestVersion": "1.0.0",
-    "minSupportedVersion": "1.0.0",
+    "latestVersion": "1.1.0",
+    "minSupportedVersion": "1.1.0",
     "forceUpdate": true
   }
 }
